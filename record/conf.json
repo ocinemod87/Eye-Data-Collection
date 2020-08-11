@@ -1,0 +1,8 @@
+{
+  "repetitions": 10,
+  "rep_delay": 50,
+  "exposure": {
+    "eye": 112,
+    "scene": 114
+  }
+}
